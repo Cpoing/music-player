@@ -21,4 +21,3 @@ import {createApi, fetchBaseQuery} from '@reduxjs/toolkit/query/react';
         useGetTopChartsQuery,
         useGetSongDetailsQuery,
     } = shazamCoreApi;
-    ///shazam-songs/get-details?id=${songid}
